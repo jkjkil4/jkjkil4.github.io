@@ -14,8 +14,6 @@ tags: [Python, OpenGL]
 
 ## 本节代码
 
-高亮的部分表示在上一节的基础上新增的内容
-
 ```py
 # 导入需要的库
 import glfw
@@ -61,4 +59,3 @@ while not glfw.window_should_close(window):
 # 终止 GLFW
 glfw.terminate()
 ```
-{: .highlighter-rouge .highlight highlight="25-28,32-33,35-36" }
