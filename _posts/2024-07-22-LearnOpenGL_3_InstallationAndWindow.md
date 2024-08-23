@@ -9,7 +9,7 @@ tags: [Python, OpenGL]
 > LearnOpenGL CN 相关链接：<https://learnopengl-cn.github.io/01%20Getting%20started/03%20Hello%20Window/>
 {: .prompt-info }
 
-> 本节视频：<https://www.bilibili.com/video/BV1mVWDe6EM6?p=3/>
+> 本节视频：<https://www.bilibili.com/video/BV1mVWDe6EM6?p=3>
 {: .prompt-info }
 
 ## 本节代码
