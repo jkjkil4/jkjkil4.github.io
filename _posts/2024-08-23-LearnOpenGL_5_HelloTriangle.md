@@ -3,7 +3,7 @@ layout: post
 title: LearnOpenGL 5 你好，三角形
 date: 2024-08-23 16:21 +0800
 categories: [教程, LearnOpenGL]
-tags: [Python, OpenGL]
+tags: [python, opengl]
 ---
 
 > LearnOpenGL CN 相关链接：<https://learnopengl-cn.github.io/01%20Getting%20started/04%20Hello%20Triangle/>

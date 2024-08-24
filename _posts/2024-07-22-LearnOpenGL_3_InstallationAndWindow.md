@@ -3,7 +3,7 @@ layout: post
 title: LearnOpenGL 3 安装与创建窗口
 date: 2024-07-22 13:11 +0800
 categories: [教程, LearnOpenGL]
-tags: [Python, OpenGL]
+tags: [python, opengl]
 ---
 
 > LearnOpenGL CN 相关链接：<https://learnopengl-cn.github.io/01%20Getting%20started/03%20Hello%20Window/>

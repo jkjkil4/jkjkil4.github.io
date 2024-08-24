@@ -3,7 +3,7 @@ layout: post
 title: LearnOpenGL 4 处理输入与背景颜色
 date: 2024-07-27 10:04 +0800
 categories: [教程, LearnOpenGL]
-tags: [Python, OpenGL]
+tags: [python, opengl]
 ---
 
 > LearnOpenGL CN 相关链接：<https://learnopengl-cn.github.io/01%20Getting%20started/03%20Hello%20Window/>
