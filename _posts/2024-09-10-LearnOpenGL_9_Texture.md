@@ -19,8 +19,8 @@ tags: [python, opengl]
     <img src="https://learnopengl-cn.github.io/img/01/06/awesomeface.png" alt="awesomeface.png" style="width: 60%;" />
 </div>
 
-> 文件为 [Joey de Vries](http://joeydevries.com/) 所有。所有权利均保留。
-> All credit goes to [Joey de Vries](http://joeydevries.com/). All rights reserved.
+> 文件为 [Joey de Vries](https://joeydevries.com/) 所有。所有权利均保留。
+> All credit goes to [Joey de Vries](https://joeydevries.com/). All rights reserved.
 
 ## 本节代码（点击展开）
 
