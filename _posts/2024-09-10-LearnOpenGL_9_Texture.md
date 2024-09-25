@@ -357,7 +357,7 @@ ibo = ctx.buffer(indices.tobytes())
 vao = ctx.vertex_array(prog, vbo, 'in_vert', 'in_texcoord', index_buffer=ibo)
 
 # 纹理
-img = Image.open('container.jpg')
+img = Image.open('container.jpg').transpose(Image.FLIP_TOP_BOTTOM)
 texture1 = ctx.texture(img.size, components=3, data=img.tobytes())
 img = Image.open('awesomeface.png').transpose(Image.FLIP_TOP_BOTTOM)
 texture2 = ctx.texture(img.size, components=4, data=img.tobytes())

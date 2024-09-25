@@ -9,10 +9,19 @@ tags: [python, opengl]
 > LearnOpenGL CN 相关链接：<https://learnopengl-cn.github.io/01%20Getting%20started/05%20Shaders/>
 {: .prompt-info }
 
-> 本节视频：暂未发布
+> 本节视频：<https://www.bilibili.com/video/BV1CkxuexEeQ?p=2>
 {: .prompt-info }
 
 ## 本节代码
+
+### 查询顶点属性可用数量
+
+```py
+import moderngl
+
+ctx = moderngl.create_standalone_context()
+print(ctx.info['GL_MAX_VERTEX_ATTRIBS'])
+```
 
 ### 顶点着色器向片段着色器传递数据（渲染暗红色三角形）
 
