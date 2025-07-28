@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LearnOpenGL 9 纹理
+title: LearnOpenGL 10 加载与创建纹理
 date: 2024-09-10 22:59 +0800
 categories: [教程, LearnOpenGL]
 tags: [python, opengl]
