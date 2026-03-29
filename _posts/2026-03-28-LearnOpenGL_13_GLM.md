@@ -9,7 +9,7 @@ tags: [python, opengl]
 > LearnOpenGL CN 相关链接：<https://learnopengl-cn.github.io/01%20Getting%20started/07%20Transformations/>
 {: .prompt-info }
 
-> 本节视频：暂未发布
+> 本节视频：<https://www.bilibili.com/video/BV1ZGX1BxEdX?p=3>
 {: .prompt-info }
 
 ## 使用到的素材（右键-将图像另存为）
