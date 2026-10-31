@@ -223,8 +223,6 @@ vertices = np.array([
     -0.5,  0.5, -0.5,  0.0, 1.0,
 ], dtype='f4')
 ```
-```
-```
 
 </details>
 
@@ -601,8 +599,6 @@ while not glfw.window_should_close(window):
 
 # 终止 GLFW
 glfw.terminate()
-```
-```
 ```
 
 
